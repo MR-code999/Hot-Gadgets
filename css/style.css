@@ -1,0 +1,42 @@
+.nav-link{
+    font-size: 20px !important;
+    color: rgb(99, 94, 94) !important;
+    font-weight: 500 ;
+}
+
+    /* slider section */
+.carousel-indicators [data-bs-target] {
+    height: 8px;
+    margin-bottom: 30px;
+    background-color: rgb(102, 100, 100);
+    border: 0;
+    border-radius: 3px;
+}
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: rgb(40, 6, 189) !important;
+}
+/* featured section */
+.featured-section{
+    margin: 80px 0 !important;
+    /* padding: 50px !important; */
+
+}
+.featured-section a{
+    color: #f0a800;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.h5, h5 {
+    font-size: 30px;
+    text-align: center;
+}
+h4{
+    color: rgb(82, 80, 80);
+}
+.card{
+    border: 0;
+    box-shadow: gray 0 8px 24px;
+    padding: 0 15px ;
+}
